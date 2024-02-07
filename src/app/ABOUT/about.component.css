@@ -1,0 +1,36 @@
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.start{
+   background-color:white;
+    width: 50px;
+    height: 3px;
+    margin-right: 8px;
+}
+.end{
+    background-color:white;
+     width: 50px;
+     height: 3px;
+    margin-left: 8px;
+
+ }
+
+ section{
+    height: 100vh;
+    background-color:#1abc9c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+ }
+ section h3{
+    font-size:31px ;
+    text-align: center;
+ }
+ section p{
+    font-size: 16px;
+ }

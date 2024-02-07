@@ -1,0 +1,46 @@
+section{
+    height: 97vh;
+    background-color:#1abc9c;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.photo{
+    width: 250px;
+}
+.star{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+   background-color:white;
+    width: 70px;
+    height: 3px;
+    margin-right: 8px;
+}
+.end{
+    background-color:white;
+     width: 70px;
+     height: 3px;
+    margin-left: 8px;
+
+ } 
+
+ section h3{
+    font-size: 13px;
+    padding: 10px;
+ }
+
+
+ .perant{
+    margin-top: 100px;
+ }
+
+ section h2{
+    font-size: 40px;
+    font-weight: bolder!important;
+ }
